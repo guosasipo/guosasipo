@@ -1,0 +1,42 @@
+[
+    {
+        "type": "rainbow",
+        "fileName": "day.svg",
+        "backgroundColor": "#ffffff00",
+        "foregroundColor": "#00000f",
+        "strongColor": "#3ddc84",
+        "weakColor": "gray",
+        "radarColor": "#3ddc84",
+        "growingAnimation": true,
+        "saturation": "50%",
+        "contribLightness": [
+            "40%",
+            "50%",
+            "55%",
+            "60%",
+            "70%"
+        ],
+        "duration": "10s",
+        "hueRatio": -7
+    },
+    {
+        "type": "rainbow",
+        "fileName": "night.svg",
+        "backgroundColor": "#00000f00",
+        "foregroundColor": "#eeeeff",
+        "strongColor": "#3ddc84",
+        "weakColor": "#aaaaaa",
+        "radarColor": "#3ddc84",
+        "growingAnimation": true,
+        "saturation": "50%",
+        "contribLightness": [
+            "20%",
+            "30%",
+            "35%",
+            "40%",
+            "50%"
+        ],
+        "duration": "10s",
+        "hueRatio": -7
+    }
+]
