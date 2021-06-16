@@ -6,13 +6,13 @@
  
  <div align=center>
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guosasipo&theme=gotham&show_icons=true&count_private=true&hide_border=true&locale=kr&bg_color=DEG,12c2e9,c471ed,f64f59&title_color=3ddc84)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guosasipo&theme=gotham&show_icons=true&count_private=true&hide_border=true&locale=kr&bg_color=DEG,12c2e9,c471ed,f64f59&title_color=3ddc84&text_color=a4c639)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
  <div align=center>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guosasipo&langs_count=10&layout=compact&theme=gotham&show_icons=true&count_private=true&hide_border=true&locale=kr&title_color=3ddc84&bg_color=DEG,12c2e9,c471ed,f64f59)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guosasipo&langs_count=10&layout=compact&theme=gotham&show_icons=true&count_private=true&hide_border=true&locale=kr&title_color=3ddc84&text_color=a4c639&bg_color=DEG,12c2e9,c471ed,f64f59)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
