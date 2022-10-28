@@ -27,4 +27,4 @@
 
 
 ## Donate
-[![[Paypal](https://img.shields.io/badge/guosasipo-3b7bbf?style=flat-square&logo=paypal&logoColor=ffffff)](https://paypal.me/guosasipo)
+[![Paypal](https://img.shields.io/badge/guosasipo-3b7bbf?style=flat-square&logo=paypal&logoColor=ffffff)](https://paypal.me/guosasipo)
