@@ -1,8 +1,7 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=guosasipo" />
-
+<img align="right" src="https://komarev.com/ghpvc/?username=guosasipo" /><br>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=guosasipo&show_icons=true&count_private=true&hide_border=true&bg_color=22272E&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_title=true" />
 ## Hi there, my name is Hojoon
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=guosasipo&show_icons=true&count_private=true&hide_border=true&bg_color=22272E&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_title=true" /><br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guosasipo&langs_count=10&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=1a73e8&bg_color=22272E&hide_title=true" />
 
  - Korean
