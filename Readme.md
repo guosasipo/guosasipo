@@ -7,6 +7,8 @@
  - Korean
  - I'm currently learning about android building
 
+
+
 ## My devices
 ### Phone / Pad
 [![Xiaomi Mi Pad 5 Pro 5G](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%205%20Pro%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomipad5pro5G/specs)
