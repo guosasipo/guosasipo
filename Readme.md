@@ -19,4 +19,4 @@
 ## Working environment
 [![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
-[![Debian 11](https://img.shields.io/badge/Debian%2011-d70a53?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.debian.org/releases/bullseye/)
+[![Debian 11](https://img.shields.io/badge/Debian%2011-d70a53?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org/releases/bullseye/)
