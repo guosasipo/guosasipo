@@ -7,4 +7,5 @@
 
 ## My devices
 ### Phone / Pad
-[![Xiaomi Mi Pad 5 Pro 5G](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%205%20Pro%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomipad5pro5g/specs)
+[![Xiaomi Mi Pad 5 Pro 5G](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%205%20Pro%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomipad5pro5G/specs)
+[![OPPO Reno8 Pro+ 5G](https://img.shields.io/badge/-OPPO%20Reno8%20Pro%2B%205G-BAE2E1)](https://www.oppo.com/cn/smartphones/series-reno/reno8-pro-plus/specs)
