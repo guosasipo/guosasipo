@@ -15,3 +15,8 @@
 [![OPPO Reno8 Pro+ 5G](https://img.shields.io/badge/-OPPO%20Reno8%20Pro%2B%205G-BAE2E1?style=flat-square&logo=oppo)](https://www.oppo.com/cn/smartphones/series-reno/reno8-pro-plus/specs)
 ### Laptop / Desktop / Server
 [![Galaxy Book Ion 2](https://img.shields.io/badge/-Galaxy%20Book%20Ion%202-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://prod.danawa.com/info/?pcode=12978881)
+
+## Working environment
+[![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
+[![Debian 11](https://img.shields.io/badge/Debian%2011-d70a53?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.debian.org/releases/bullseye/)
