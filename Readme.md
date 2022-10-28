@@ -24,3 +24,7 @@
 ## Contacts
 [![Telegram](https://img.shields.io/badge/%40guosasipo-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/guosasipo)
 [![Discord](https://img.shields.io/badge/guosasipo%235284-7289da?style=flat-square&logo=discord&logoColor=ffffff)](#)
+
+
+## Donate
+[![[Paypal](https://img.shields.io/badge/guosasipo-3b7bbf?style=flat-square&logo=paypal&logoColor=ffffff)](https://paypal.me/guosasipo)
