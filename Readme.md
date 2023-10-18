@@ -1,4 +1,4 @@
-<h1 align=center>Hi there, my name is Hojoon</h1>
+<h1 align=center>👋 Hi there, my name is Hojoon</h1>
 <p align=center>Korean</p>
 <p align=center>I'm currently learning about android building</p>
 <p align=center><img src="https://komarev.com/ghpvc/?username=guosasipo&style=for-the-badge&color=3ddc84&label=Visited+People" alt="Profile Views" /></p>
