@@ -1,22 +1,35 @@
-## Hi there, my name is Hojoon
- - Korean
- - I'm currently learning about android building
-## My devices
-### Phone / Pad
-[![Xiaomi 13](https://img.shields.io/badge/Xiaomi%2013-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomi-13)
-[![Xiaomi Pad 6 Max 14](https://img.shields.io/badge/Xiaomi%20Pad%206%20Max%2014-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomi-pad-6-max)
-### Laptop / Desktop / Server
-[![Galaxy Book Ion 2](https://img.shields.io/badge/-Galaxy%20Book%20Ion%202-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://prod.danawa.com/info/?pcode=12978881)
+<h1 align=center>Hi there, my name is Hojoon</h1>
+<p align=center>Korean</p>
+<p align=center>I'm currently learning about android building</p>
+<p align=center><img src="https://komarev.com/ghpvc/?username=guosasipo&style=for-the-badge&color=3ddc84&label=Visited+People" alt="Profile Views" /></p>
+<p align=center><img src="https://github-readme-streak-stats.herokuapp.com?user=guosasipo&theme=android-dark&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly&background=EBEBEB00" alt="GitHub Streak" /></p>
 
-## Working environment
-[![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
-[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
-[![Ubuntu 23.04](https://img.shields.io/badge/Ubuntu%2023.04-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://discourse.ubuntu.com/t/lunar-lobster-release-notes)
+<h2 align=center>My devices</h2>
 
-## Contacts
-[![Telegram](https://img.shields.io/badge/%40guosasipo-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/guosasipo)
-[![Discord](https://img.shields.io/badge/guosasipo%235284-7289da?style=flat-square&logo=discord&logoColor=ffffff)](#)
+<h4 align=center>Phone / Pad</h4>
+<p align=center>
+<a href="https://www.mi.com/xiaomi-13"><img src="https://img.shields.io/badge/Xiaomi%2013-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
+<a href="https://www.mi.com/xiaomi-pad-6-max"><img src="https://img.shields.io/badge/Xiaomi%20Pad%206%20Max%2014-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
+</p>
 
+<h4 align=center>Laptop / Desktop / Server</h4>
+<p align=center>
+<a align=center href="https://prod.danawa.com/info/?pcode=12978881"><img src="https://img.shields.io/badge/-Galaxy%20Book%20Ion%202-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff"></a>
+</p>
 
-## Donate
-[![Paypal](https://img.shields.io/badge/guosasipo9545-3b7bbf?style=flat-square&logo=paypal&logoColor=ffffff)](https://paypal.me/guosasipo9545)
+<h4 align=center>Working environment</h4>
+<p align=center>
+<a href="https://www.android.com/android-14"><img src="https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff"></a>
+<a href="https://www.microsoft.com/windows/windows-11"><img src="https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff"></a>
+<a href="https://discourse.ubuntu.com/t/mantic-minotaur-release-notes/35534"><img src="https://img.shields.io/badge/Ubuntu%2023.10-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff"></a>
+</p>
+
+<h2 align=center>Contacts</h2>
+<p align=center>
+<a href="https://t.me/guosasipo"><img src="https://img.shields.io/badge/%40guosasipo-0088cc?style=flat-square&logo=telegram&logoColor=ffffff"></a>
+</p>
+
+<h2 align=center>Donate</h2>
+<p align=center>
+<a href="https://paypal.me/guosasipo9545"><img src="https://img.shields.io/badge/guosasipo9545-3b7bbf?style=flat-square&logo=paypal&logoColor=ffffff"></a>
+</p>
