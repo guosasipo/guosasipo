@@ -8,7 +8,7 @@
 
 <h4 align=center>Phone / Pad</h4>
 <p align=center>
-<a href="https://www.mi.com/xiaomi-13"><img src="https://img.shields.io/badge/Xiaomi%2013-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
+<a href="https://www.qualcomm.com/snapdragon/device-finder/smartphones/lenovo-legion-y70"><img src="https://img.shields.io/badge/Lenovo%20Legion%20Y70-e42022?style=flat-square&logo=lenovo&logoColor=ffffff"></a>
 <a href="https://www.mi.com/xiaomi-pad-6-max"><img src="https://img.shields.io/badge/Xiaomi%20Pad%206%20Max%2014-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
 </p>
 
