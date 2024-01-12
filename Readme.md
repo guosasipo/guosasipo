@@ -2,7 +2,7 @@
 <p align=center>Korean</p>
 <p align=center>I'm currently learning about android building</p>
 <p align=center><img src="https://komarev.com/ghpvc/?username=guosasipo&style=for-the-badge&color=3ddc84&label=Visited+People" alt="Profile Views" /></p>
-<p align=center><img src="https://github-readme-streak-stats.herokuapp.com?user=guosasipo&theme=android-dark&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly&background=EBEBEB00" alt="GitHub Streak" /></p>
+<p align=center><img src="https://readme-stats.guosasipo.dev/?user=guosasipo&theme=android-dark&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly&background=EBEBEB00" alt="GitHub Streak" /></p>
 
 <h2 align=center>My devices</h2>
 
