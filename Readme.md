@@ -15,6 +15,7 @@
 <h4 align=center>Laptop / Desktop / Server</h4>
 <p align=center>
 <a align=center href="https://prod.danawa.com/info/?pcode=12978881"><img src="https://img.shields.io/badge/-Galaxy%20Book%20Ion%202-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff"></a>
+<a align=center><img src="https://img.shields.io/badge/Good%20Desktop-000000?style=flat-square&logoColor=ffffff"></a>
 </p>
 
 <h4 align=center>Working environment</h4>
