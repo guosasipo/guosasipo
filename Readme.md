@@ -8,8 +8,8 @@
 
 <h4 align=center>Phone / Pad</h4>
 <p align=center>
-<a href="https://nothing.tech/pages/phone-1"><img src="https://img.shields.io/badge/Nothing%20Phone%201-000000?style=flat-square&logo=nothing&logoColor=ffffff"></a>
-<a href="https://www.mi.com/xiaomi-pad-6-max"><img src="https://img.shields.io/badge/Xiaomi%20Pad%206%20Max%2014-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
+<a href="https://www.apple.com/iphone-15/"><img src="https://img.shields.io/badge/iPhone%2015%20Plus-000000?style=flat-square&logo=apple&logoColor=ffffff"></a>
+<a href="https://support.apple.com/en-us/111842"><img src="https://img.shields.io/badge/iPad%20Pro%2011%20Gen%204-000000?style=flat-square&logo=apple&logoColor=ffffff"></a>
 </p>
 
 <h4 align=center>Laptop / Desktop / Server</h4>
@@ -20,9 +20,8 @@
 
 <h4 align=center>Working environment</h4>
 <p align=center>
-<a href="https://www.android.com/android-14"><img src="https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff"></a>
+<a href="https://www.apple.com/ios/ios-17/"><img src="https://img.shields.io/badge/iOS%2017.3-000000?style=flat-square&logo=apple&logoColor=ffffff"></a>
 <a href="https://www.microsoft.com/windows/windows-11"><img src="https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff"></a>
-<a href="https://discourse.ubuntu.com/t/mantic-minotaur-release-notes/35534"><img src="https://img.shields.io/badge/Ubuntu%2023.10-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff"></a>
 </p>
 
 <h2 align=center>Contacts</h2>
