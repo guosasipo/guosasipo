@@ -9,7 +9,6 @@
 <h4 align=center>Phone / Pad</h4>
 <p align=center>
 <a href="https://www.apple.com/iphone-15/"><img src="https://img.shields.io/badge/iPhone%2015%20Plus-000000?style=flat-square&logo=apple&logoColor=ffffff"></a>
-<a href="https://support.apple.com/en-us/111842"><img src="https://img.shields.io/badge/iPad%20Pro%2011%20Gen%204-000000?style=flat-square&logo=apple&logoColor=ffffff"></a>
 </p>
 
 <h4 align=center>Laptop / Desktop / Server</h4>
