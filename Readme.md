@@ -9,6 +9,7 @@
 <h4 align=center>Phone / Pad</h4>
 <p align=center>
 <a href="https://www.apple.com/iphone-15/"><img src="https://img.shields.io/badge/iPhone%2015%20Plus-000000?style=flat-square&logo=apple&logoColor=ffffff"></a>
+<a href="https://www.po.co/global/product/poco-f6-pro"><img src="https://img.shields.io/badge/POCO%20F6%20Pro-ffd400?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
 </p>
 
 <h4 align=center>Laptop / Desktop / Server</h4>
@@ -19,8 +20,9 @@
 
 <h4 align=center>Working environment</h4>
 <p align=center>
-<a href="https://www.apple.com/ios/ios-17/"><img src="https://img.shields.io/badge/iOS%2017.3-000000?style=flat-square&logo=apple&logoColor=ffffff"></a>
+<a href="https://www.apple.com/ios/ios-18-preview"><img src="https://img.shields.io/badge/iOS%2018-000000?style=flat-square&logo=apple&logoColor=ffffff"></a>
 <a href="https://www.microsoft.com/windows/windows-11"><img src="https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff"></a>
+<a href="https://www.android.com/android-14"><img src="https://img.shields.io/badge/Android%2014-3DDC84?style=flat-square&logo=android&logoColor=ffffff"></a>
 </p>
 
 <h2 align=center>Contacts</h2>
