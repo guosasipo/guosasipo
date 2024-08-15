@@ -10,6 +10,7 @@
 <p align=center>
 <a href="https://www.apple.com/iphone-15/"><img src="https://img.shields.io/badge/iPhone%2015%20Plus-000000?style=flat-square&logo=apple&logoColor=ffffff"></a>
 <a href="https://www.po.co/global/product/poco-f6-pro"><img src="https://img.shields.io/badge/POCO%20F6%20Pro-ffd400?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
+<a href="https://www.rabbit.tech/rabbit-r1"><img src="https://img.shields.io/badge/Rabbit%20r1-ff4d06?style=flat-square"></a>
 </p>
 
 <h4 align=center>Laptop / Desktop / Server</h4>
