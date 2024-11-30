@@ -24,7 +24,7 @@
 <a href="https://www.apple.com/ios/ios-18"><img src="https://img.shields.io/badge/iOS%2018.1-000000?style=flat-square&logo=apple&logoColor=ffffff"></a>
 <a href="https://www.microsoft.com/windows/windows-11"><img src="https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logoColor=ffffff"></a>
 <a href="https://canonical.com/blog/canonical-releases-ubuntu-24-04-noble-numbat"><img src="https://img.shields.io/badge/Ubuntu%2024.04%20LTS-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff"></a>
-<a href="https://www.android.com/android-14"><img src="https://img.shields.io/badge/Android%2014-3DDC84?style=flat-square&logo=android&logoColor=ffffff"></a>
+<a href="https://www.android.com/android-15"><img src="https://img.shields.io/badge/Android%2015-3DDC84?style=flat-square&logo=android&logoColor=ffffff"></a>
 </p>
 
 <h2 align=center>Contacts</h2>
