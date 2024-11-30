@@ -1,5 +1,4 @@
-<h1 align=center>👋 Hi there, my name is Hojoon</h1>
-<p align=center>Korean</p>
+<h1 align=center>👋 Hi there, my name is Ho joon</h1>
 <p align=center>I'm currently learning about android building</p>
 <p align=center><img src="https://komarev.com/ghpvc/?username=guosasipo&style=for-the-badge&color=3ddc84&label=Visited+People" alt="Profile Views" /></p>
 <p align=center><img src="https://github-readme-stats.vercel.app/api?username=guosasipo&count_private=true&show_icons=true&theme=ambient_gradient" alt="stats" /></p>
