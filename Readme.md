@@ -9,7 +9,7 @@
 <h4 align=center>Phone / Pad</h4>
 <p align=center>
 <a href="https://www.apple.com/iphone-15"><img src="https://img.shields.io/badge/iPhone%2015%20Plus-000000?style=flat-square&logo=apple&logoColor=ffffff"></a>
-<a href="https://www.mi.com/global/product/xiaomi-pad-6s-pro-124"><img src="https://img.shields.io/badge/Xiaomi%20Pad%206S%20Pro%2012.4-ff6800?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
+<a href="https://www.mi.com/xiaomi-pad-6-pro"><img src="https://img.shields.io/badge/Xiaomi%20Pad%206%20Pro-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
 </p>
 
 <h4 align=center>Laptop / Desktop / Server</h4>
