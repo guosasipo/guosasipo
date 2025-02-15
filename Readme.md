@@ -1,6 +1,6 @@
 <h1 align=center>👋 Hi there, my name is Ho joon</h1>
 <p align=center><img src="https://komarev.com/ghpvc/?username=guosasipo&style=for-the-badge&color=3ddc84&label=Visited+People" alt="Profile Views" /></p>
-<p align=center><img src="https://github-readme-stats.vercel.app/api?username=guosasipo&count_private=true&show_icons=true&theme=ambient_gradient" alt="stats" /></p>
+<p align=center><img src="https://github-readme-stats.vercel.app/api?username=guosasipo&count_private=true&show_icons=true&theme=transparent&hide_border=true&title_color=3ddc84&icon_color=3ddc84&text_color=ffffff" alt="stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=guosasipo&count_private=true&theme=transparent&hide_border=true&title_color=3ddc84&icon_color=3ddc84&text_color=ffffff&layout=compact&langs_count=8" alt="stats" /></p>
 
 <h2 align=center>My devices</h2>
 
